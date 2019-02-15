@@ -1,0 +1,5 @@
+node_modules
+npm-debug.log
+coverage
+jest_0
+coverage/coverage-final.json
